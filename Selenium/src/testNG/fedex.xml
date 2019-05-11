@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="fedex">
+<test name="fedextracking">
+
+<classes>
+
+<class name="testNG.yatra">
+
+
+</class>
+</classes>
+</test>
+</suite>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="priority" duration-ms="65" started-at="2019-05-04T08:01:16Z" finished-at="2019-05-04T08:01:16Z">
+    <groups>
+      <group name="A">
+        <method signature="priority.a()[pri:0, instance:testNG.priority@50d0686]" name="a" class="testNG.priority"/>
+        <method signature="priority.b()[pri:0, instance:testNG.priority@50d0686]" name="b" class="testNG.priority"/>
+        <method signature="priority.c()[pri:0, instance:testNG.priority@50d0686]" name="c" class="testNG.priority"/>
+      </group> <!-- A -->
+    </groups>
+    <test name="priority" duration-ms="65" started-at="2019-05-04T08:01:16Z" finished-at="2019-05-04T08:01:16Z">
+      <class name="testNG.priority">
+        <test-method status="PASS" signature="a()[pri:0, instance:testNG.priority@50d0686]" name="a" duration-ms="14" started-at="2019-05-04T08:01:16Z" finished-at="2019-05-04T08:01:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method status="PASS" signature="b()[pri:0, instance:testNG.priority@50d0686]" name="b" duration-ms="1" started-at="2019-05-04T08:01:16Z" finished-at="2019-05-04T08:01:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method status="PASS" signature="c()[pri:0, instance:testNG.priority@50d0686]" name="c" duration-ms="1" started-at="2019-05-04T08:01:16Z" finished-at="2019-05-04T08:01:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c -->
+        <test-method status="PASS" signature="e()[pri:1, instance:testNG.priority@50d0686]" name="e" duration-ms="1" started-at="2019-05-04T08:01:16Z" finished-at="2019-05-04T08:01:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- e -->
+        <test-method status="PASS" signature="d()[pri:2, instance:testNG.priority@50d0686]" name="d" duration-ms="1" started-at="2019-05-04T08:01:16Z" finished-at="2019-05-04T08:01:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d -->
+        <test-method status="PASS" signature="f()[pri:6, instance:testNG.priority@50d0686]" name="f" duration-ms="1" started-at="2019-05-04T08:01:16Z" finished-at="2019-05-04T08:01:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- testNG.priority -->
+    </test> <!-- priority -->
+  </suite> <!-- priority -->
+</testng-results>

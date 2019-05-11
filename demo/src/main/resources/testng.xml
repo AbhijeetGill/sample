@@ -1,0 +1,18 @@
+<suite name="test suite">
+<test name="maven test">
+
+<packages>
+<package name="browser.*">
+</package>
+
+
+</packages>
+
+
+
+
+
+</test>
+
+
+</suite>
